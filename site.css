@@ -1,5 +1,11 @@
-header h1 {
-    font-size: 70px;
-    color: rgb(4, 245, 4);
-   
+h2{
+    color:greenyellow;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
   }
