@@ -1,11 +1,10 @@
 h2{
-    color:greenyellow;
+  color: aqua
 }
-
-table, th, td {
-    border: 1px solid white;
-    border-collapse: collapse;
-  }
-  th, td {
-    background-color: #96D4D4;
-  }
+table, th, tr{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th, tr{
+  background-color: #96D4D4;
+}
